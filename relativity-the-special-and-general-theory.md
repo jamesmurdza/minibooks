@@ -1,5 +1,7 @@
 # Relativity: The Special and the General Theory
 
+Available here as an audio file: https://open.spotify.com/episode/4PoicQK1D56uO368LQBx1X?si=1bf165bf66ff43b2
+
 ## 1. Physical Meaning of Geometrical Propositions
 
 In school, we all learned about the grand structure of Euclid's geometry. We were chased around and tested on its propositions for countless hours. Most of us would confidently assert that these propositions are true, but if asked to explain what we mean by "true," we might stumble. Geometry is based on conceptions like planes, points, and straight lines, and we accept certain simple propositions (axioms) as true because they align with these ideas. The other propositions are then proven from these axioms. However, the question of the truth of these propositions is ultimately meaningless and cannot be answered within the realm of geometry. The concept of "truth" implies correspondence with real objects, but geometry is concerned solely with the logical connection of ideas, not their relation to objects of experience. Although this is the case, we still feel compelled to call the propositions of geometry "true" because they align with our observations of the physical world.
